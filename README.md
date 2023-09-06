@@ -14,7 +14,7 @@ Sebelum melakukan sambungan ke server Alpro, Anda diwajibkan memenuhi salah satu
 Alamat IP dari server adalah `10.21.85.20` sehingga sambungan SSH dapat dilakukan dengan menggunakan perintah sebagai berikut:
 
 ```bash
-ssh alpro@10.21.82.20
+ssh alpro@10.21.85.20
 ```
 
 Kemudian Anda akan diminta kata sandi yang dapat diperoleh dari admin lain jika Anda tidak mengetahuinya. Setelah sambungan berhasil, Anda dapat mengakses shell dari server yang ditandai dengan teks sebagai berikut:
