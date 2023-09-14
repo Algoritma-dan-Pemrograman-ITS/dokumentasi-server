@@ -21,5 +21,5 @@ Untuk mengatasi security vulnerability maupun update tambahan fitur yang mungkin
    ```bash
    git push origin main
    ```
-6. [Buat release baru](https://github.com/Algoritma-dan-Pemrograman-ITS/domjudge/releases/new) di Github dengan nama tag sesuai versi lengkap DOMJudge diawali dengan v (Contoh: 8.2.1 menjadi v8.2.1). Judul dapat diisi dengan `DOMJudge \[Versi\] - \[Dasar Pemrograman/Struktur Data\] \[Tahun\]`, Contoh: `DOMJudge 8.2.1 - Dasar Pemrograman 2023`. Deskripsi dapat dikosongkan. Kemudian, publish release.
+6. [Buat release baru](https://github.com/Algoritma-dan-Pemrograman-ITS/domjudge/releases/new) di Github dengan nama tag sesuai versi lengkap DOMJudge diawali dengan v (Contoh: 8.2.1 menjadi v8.2.1). Judul dapat diisi dengan `DOMJudge [Versi] - [Dasar Pemrograman/Struktur Data] [Tahun]`, Contoh: `DOMJudge 8.2.1 - Dasar Pemrograman 2023`. Deskripsi dapat dikosongkan. Kemudian, publish release.
 7. TBD, kerja dulu
